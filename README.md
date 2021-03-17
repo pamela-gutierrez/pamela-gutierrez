@@ -14,7 +14,7 @@ An e-commerce website for San Francisco-based baker Danielle M. Estrella. Check 
 
 ⚡&emsp;Fun fact: 
 <br>
-I've lived in a bunch of "random" and beautiful places ranging from the Guatamalan jungle to inner-city Madrid to the Australian Outback. I love new challenges, be it cultural, creative or technical, and was inspired to become a coder by a childhood interest in carpentry because I love the idea of seeing the tangible progress after a hard day's work. But I wasn't great with hammers and tablesaws are pretty scary so I thought I'd try my hand at a different kind of building and I'm so glad I did! 
+I've lived in a bunch of "random" and beautiful places ranging from the Guatamalan jungle to inner-city Madrid to the Australian Outback. I love new challenges, be it cultural, creative or technical, and was inspired to become a coder by a childhood interest in carpentry because I loved the idea of seeing tangible progress after a hard day's work. But I wasn't great with hammers, and tablesaws are pretty scary, so I thought I'd try my hand at a different kind of building and I'm so glad I did. I may use a differnet set of tools but the satisfaction at the end of the day is one and the same! 
 
 <!--
 **pamela-gutierrez/pamela-gutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
