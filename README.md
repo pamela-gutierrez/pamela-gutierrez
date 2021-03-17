@@ -7,7 +7,7 @@ ____________________________________
 * gtrz.pamela@gmail.com
 *  [LinkedIn](www.linkedin.com/in/pamela-gutierrez)
 *  [Portfolio Site](www.pamela-gutierrez.com)
-
+---
 
 👩‍🍳&emsp;I’m currently working on:
 <br>
