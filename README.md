@@ -1,6 +1,6 @@
 ### Hi there, I'm Pamela Gutierrez 👋
 
-I'm a web developer interested in blending clean and efficient code with thoughtful and aesthetic frontend design. I'm a graduate of the UC Berkeley Full-Stack Development Bootcamp where I was able to grow my skills in both frontend and backend development. I've worked on a variety of a solo and collaborative projects using Javascript, jQuery, React, Node, Express, Handlebars are more. In addition to my technical skills I'm very much a people-oriented person and enjoy working in teams as well as in presentational and client oriented roles. I'm eager to keep learning, adding to my reportoire, and contributing to meaningful projects. 
+I'm a web developer interested in blending clean and efficient code with thoughtful and aesthetic frontend design. I'm a graduate of the UC Berkeley Full-Stack Development Bootcamp where I was able to grow my skills in both frontend and backend development. I've worked on a variety of a solo and collaborative projects using Javascript, jQuery, React, Node, Express, Handlebars are more. In addition to my technical skills I'm very much a people-oriented person and enjoy working in teams as well as in presentational and client oriented roles. I'm eager to keep learning, adding to my repertoire, and contributing to meaningful projects. 
 
 ____________________________________
 📫&emsp;How to reach me: 
